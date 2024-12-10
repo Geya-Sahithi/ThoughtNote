@@ -8,7 +8,7 @@ function LandingPage() {
       <nav
         className={"flex justify-between items-center w-full py-3 px-5 mb-10"}
       >
-        <div className="text-6xl font-medium text-cyan-100">OnThought</div>
+        <div className="text-6xl font-medium text-cyan-100">ThoughtNote</div>
         <div>
           <Link
             to="/home"
@@ -32,7 +32,7 @@ function LandingPage() {
             </h2>
             <p className="text-4xl text-[#525252d1] mt-10 max-w-4xl font-medium">
               <span className="underline underline-offset-4 text-yellow-100">
-                OnThought
+                ThoughtNote
               </span>{" "}
               is a place for all your thoughts that need your attention
             </p>
