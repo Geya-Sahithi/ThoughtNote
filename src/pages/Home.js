@@ -1,10 +1,8 @@
-import React from 'react'
-import OnThoughtLayout from '../components/OnThoughtNotes/OnThoughtLayout'
+import React from "react";
+import OnThoughtLayout from "../components/OnThoughtNotes/OnThoughtLayout";
 
 function Home() {
-  return (
-    <OnThoughtLayout/>
-  )
+  return <OnThoughtLayout />;
 }
 
-export default Home
+export default Home;
