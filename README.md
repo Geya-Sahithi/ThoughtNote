@@ -1,8 +1,8 @@
-# OnThought📒✒️
+# ThoughtNote📒✒️
 
 A note taking application for your thoughts
 
-## Deployment🚀 [https://onthought.vercel.app/](https://onthought.vercel.app/)
+## Deployment🚀 [https://thought-note-sand.vercel.app/](https://thought-note-sand.vercel.app/)
 
 ![ui](/assets/ui.png)
 
